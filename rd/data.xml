@@ -1,0 +1,123 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<product>
+  <title>Ren's Demons I</title>
+  <website>https://yo252yo.com/rd/qr_code.html</website>
+
+  <press-copy-request>
+  mailto:yo252yo@gmail.com
+  </press-copy-request>
+
+  <release-dates>
+    <release-date>July, 2022</release-date>
+  </release-dates>
+
+  <platforms>
+    <platform>
+      <name>itch.io (PC, Mac, iPhone, Android)</name>
+      <link>https://yo252yo.itch.io/rensdemo</link>
+    </platform>
+    <platform>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/1949420/Rens_Demons_I/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>EUR</currency>
+      <value>3.99</value>
+    </price>
+    <price>
+      <currency>USD</currency>
+      <value>3.99</value>
+    </price>
+    <price>
+      <currency>GBP</currency>
+      <value>3.99</value>
+    </price>
+    <price>
+      <currency>JPY</currency>
+      <value>399</value>
+    </price>
+  </prices>
+
+
+  <description>
+    This narrative-focused JRPG offers an experimental quirky philosophical take on videogames. It starts out as the quest of a child, chosen by the gods to protect the world, and expands outside of the scope of the game to involve the player themselves.
+
+    Through a completely original game engine and a unique graphical style, it leverages the adventure of a young hero to question the relationship of the player to the characters, and ultimately to their own world.
+  </description>
+
+  <histories>
+    <history>
+      <text>
+        This game was born from a desire to explore what a videogame felt like from the point of view of the NPCs. It was built around die-and-retry mechanism and save scumming as first citizens, with the goal of making the gameplay reach outside of the boundaries of a game. It quickly evolved to encapsulate many philosophical themes.
+      </text>
+    </history>
+    <history>
+      <text>
+          After the experience of You Doesn't Exist, I was very frustrated with problems with the game engine that I could not address, so I ended up making my own game engine from scratch. I was also determined to do a game that could be enjoyable from the start and move away from the formula "bear through the innocuous beginning to get to the exciting part". Those driving factors dictated much of the project.
+      </text>
+    </history>
+  </histories>
+
+
+  <features>
+    <feature>
+      A non-linear universe full of optional content for you to explore
+    </feature>
+    <feature>
+      A quirky narrative battle system
+    </feature>
+    <feature>
+      A minimalist atypical colorful art style
+    </feature>
+    <feature>
+      An entirely original cross-platform game engine built for the project
+    </feature>
+    <feature>
+      Favorite old school RPG features coming back: walk on the world map, name your characters, and more
+    </feature>
+    <feature>
+      A procedurally generated world different for every player
+    </feature>
+    <feature>
+      15 unique characters to invite to your party, more than 74 monsters to encounter
+    </feature>
+    <feature>
+      7 different endings
+    </feature>
+    <feature>
+      Between 5 and 20 hours of content depending on how exploratory you feel
+    </feature>
+    <feature>
+      In web browser: can be played on any platform
+    </feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Release Trailer</name>
+      <youtube>qC0KMOyFvQQ</youtube>
+    </trailer>
+  </trailers>
+
+  <widgets>
+    <steam>1949420</steam>
+    <itch>1205685</itch>
+  </widgets>
+
+  <credits>
+    <credit>
+      <person>Yo252Yo</person>
+      <role>Creator, designer, programer, game engine</role>
+    </credit>
+    <credit>
+      <person>Mirukyu</person>
+      <role>Title art, alpha testing</role>
+    </credit>
+  </credits>
+
+</product>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<company>
+  <title>Yo252Yo</title>
+  <based-in>Paris, France</based-in>
+  <website>https://www.yo252yo.com/</website>
+
+  <address>
+    <line>8 rue de Londres</line>
+    <line>75009 Paris</line>
+    <line>France</line>
+  </address>
+
+  <founding-date>2013</founding-date>
+
+  <socials>
+    <social>
+      <name>Twitter @yo252yo</name>
+      <link>https://twitter.com/yo252yo</link>
+    </social>
+  </socials>
+
+  <press-contact>yo252yo@gmail.com</press-contact>
+
+  <description>
+    Software Engineer doing solo game dev in his spare time, interested in experimental projects at the crossroad of art, technology and philosophy.
+  </description>
+
+  <histories>
+    <history>
+      <text>I'm a simple engineer who couldn't settle into an office job. Even when studying, I used to do creative writing on the side, but through the 2010s I moved towards more interactive projects. That's where videogames come in as an extremely potent medium of exploration.</text>
+    </history>
+    <history>
+      <text>For now, I pursue these interests in my spare time, on the side of my job as Software Engineer for Google.</text>
+    </history>
+  </histories>
+
+  <trailers>
+    <trailer>
+      <name>Ren's Demons I - trailer</name>
+      <youtube>qC0KMOyFvQQ</youtube>
+    </trailer>
+    <trailer>
+      <name>You Doesnt Exist launch trailer</name>
+      <youtube>46IKlLbg5WA</youtube>
+    </trailer>
+  </trailers>
+
+
+  <quotes>
+    <quote>
+      <description>Never played game like this before, the only way how to discover what I am trying to say you is trying the game on your own. Everybody´s experience of this game will be very different, I just hope ur gonna like it.</description>
+      <name>Dorbys</name>
+      <website>Steam</website>
+      <link>
+        https://steamcommunity.com/profiles/76561198125820790/recommended/688650
+      </link>
+    </quote>
+    <quote>
+      <description>The game falls into the "Game and art" category, any review with less than 30 minutes of play will not render justice to it.</description>
+      <name>Kyojin</name>
+      <website>Steam</website>
+      <link>
+        https://steamcommunity.com/profiles/76561197984770447/recommended/688650
+      </link>
+    </quote>
+  </quotes>
+
+  <credits>
+    <credit>
+      <person>Yoann Bourse</person>
+      <role>Me</role>
+    </credit>
+  </credits>
+</company>

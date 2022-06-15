@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<product>
+  <title>You Doesn't Exist</title>
+  <website>https://www.yo252yo.com/yde</website>
+
+  <press-copy-request>
+    mailto:yo252yo@gmail.com
+  </press-copy-request>
+
+  <release-dates>
+    <release-date>04 Apr, 2017</release-date>
+  </release-dates>
+
+  <platforms>
+    <platform>
+      <name>itch.io</name>
+      <link>https://yo252yo.itch.io/you-doesnt-exist</link>
+    </platform>
+    <platform>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/688650/You_Doesnt_Exist/</link>
+    </platform>
+    <platform>
+      <name>PC / Mac (self hosted)</name>
+      <link>https://yo252yo.com/yde/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>Free</currency>
+    </price>
+  </prices>
+
+
+  <description>
+  What starts out as the most stereotypical RPG maker JRPG ever quickly descends into meta-madness when the game glitches and attracts your attention on the fact that this is a fake narrative. From there on, you find yourself in a walking simulator that declines the same skeletal JRPG structure through all kind of different universes until an explosion of meta projects you in the core of the game engine itself.
+  </description>
+
+  <histories>
+    <history>
+      <text>
+        This game was developped as an exploration of the parallels between different versions of an illusory self: from the traditional "it was all a dream" twist ending to the simulation theory, I try to catalogue all the ways you could be wrong about your own experience. The videogame format quickly offered a parallel between the player and the character as heroes of their own stories.
+      </text>
+    </history>
+    <history>
+      <text>
+        I wanted to do an RPG-maker game, but I ended up gravitating towards an open source clone called RPGboss. It had many issues but it also gave me the opportunity to tinker with the very source code of the engine to offer experiences completely unique.
+      </text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>
+      A short run-of-the-mill JRPG to begin with
+    </feature>
+    <feature>
+      9 complete declinations of the world, each pushing the game engine to a different limit, to explore at your own pace (medieval fantasy, meta, asylum, contemporary japan, computer circuitery, fairytale book, sci-fi, dreams, game engine)
+    </feature>
+    <feature>
+      A procedurally generated experience of glitches and plot twists
+    </feature>
+    <feature>
+      An open-source (mostly) stable game engine
+    </feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Release Trailer</name>
+      <youtube>46IKlLbg5WA</youtube>
+    </trailer>
+  </trailers>
+
+  <widgets>
+    <steam>688650</steam>
+    <itch>1068110</itch>
+  </widgets>
+
+  <quotes>
+    <quote>
+      <description>Never played game like this before, the only way how to discover what I am trying to say you is trying the game on your own. Everybody´s experience of this game will be very different, I just hope ur gonna like it.</description>
+      <name>Dorbys</name>
+      <website>Steam</website>
+      <link>
+        https://steamcommunity.com/profiles/76561198125820790/recommended/688650
+      </link>
+    </quote>
+    <quote>
+      <description>The game falls into the "Game and art" category, any review with less than 30 minutes of play will not render justice to it.</description>
+      <name>Kyojin</name>
+      <website>Steam</website>
+      <link>
+        https://steamcommunity.com/profiles/76561197984770447/recommended/688650
+      </link>
+    </quote>
+  </quotes>
+
+  <credits>
+    <credit>
+      <person>Yo252Yo</person>
+      <role>Creator, designer, programer</role>
+    </credit>
+    <credit>
+      <person>Mirukyu</person>
+      <role>Title art, alpha testing</role>
+    </credit>
+    <credit>
+      <person>RPGBoss</person>
+      <website>https://github.com/rpgboss/rpgboss</website>
+      <role>Game engine</role>
+    </credit>
+  </credits>
+
+</product>
