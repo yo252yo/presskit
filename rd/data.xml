@@ -16,7 +16,7 @@
   <platforms>
     <platform>
       <name>itch.io (PC, Mac, iPhone, Android)</name>
-      <link>https://yo252yo.itch.io/rensdemo</link>
+      <link>https://yo252yo.itch.io/rens-demons</link>
     </platform>
     <platform>
       <name>Steam</name>
@@ -90,7 +90,7 @@
       7 different endings
     </feature>
     <feature>
-      Between 5 and 20 hours of content depending on how exploratory you feel
+      Between 5 and 30 hours of content depending on how exploratory you feel
     </feature>
     <feature>
       In web browser: can be played on any platform
@@ -106,7 +106,7 @@
 
   <widgets>
     <steam>1949420</steam>
-    <itch>1205685</itch>
+    <itch>1576324</itch>
   </widgets>
 
   <credits>
