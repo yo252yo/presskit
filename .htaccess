@@ -1,0 +1,4 @@
+RewriteEngine on
+
+
+RewriteRule ^/?$ /build/ [R=301,L]
