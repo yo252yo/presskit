@@ -45,7 +45,7 @@
 
 
   <description>
-    This narrative-focused JRPG offers an experimental quirky philosophical take on videogames. It starts out as the quest of a child, chosen by the gods to protect the world, and expands outside of the scope of the game to involve the player themselves.
+    This narrative-focused JRPG offers an experimental quirky philosophical take on videogames. It starts out as the quest of a child, chosen by the gods to protect the world. But after defeating what seems like the final boss, the title becomes "Ren's Demons II" and the story continues into an oddly similar yet different tale. The real core of the game then becomes clear: the player is in a meta-quest to escape a neverending cycle of suffering, which will extend outside of the scope of the game all the way into the real world!
 
     Through a completely original game engine and a unique graphical style, it leverages the adventure of a young hero to question the relationship of the player to the characters, and ultimately to their own world.
   </description>
@@ -53,12 +53,12 @@
   <histories>
     <history>
       <text>
-        This game was born from a desire to explore what a videogame felt like from the point of view of the NPCs. It was built around die-and-retry mechanism and save scumming as first citizens, with the goal of making the gameplay reach outside of the boundaries of a game. It quickly evolved to encapsulate many philosophical themes.
+        This game was developped by a single developper in his spare time. It was born from a desire to explore what a videogame felt like from the point of view of the NPCs. It was built around die-and-retry mechanism and save scumming as first citizens, with the goal of making the gameplay reach outside of the boundaries of a game. It quickly evolved to encapsulate many philosophical themes.
       </text>
     </history>
     <history>
       <text>
-          After the experience of You Doesn't Exist, I was very frustrated with problems with the game engine that I could not address, so I ended up making my own game engine from scratch. I was also determined to do a game that could be enjoyable from the start and move away from the formula "bear through the innocuous beginning to get to the exciting part". Those driving factors dictated much of the project.
+          After the experience of my first game You Doesn't Exist, I was very frustrated with problems with the game engine that I could not address, so I ended up making my own game engine from scratch. I was also determined to do a game that could be enjoyable from the start and move away from the formula "bear through the innocuous beginning to get to the exciting part". Those driving factors dictated much of the project.
       </text>
     </history>
   </histories>
