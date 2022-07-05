@@ -10,16 +10,16 @@
   </press-copy-request>
 
   <release-dates>
-    <release-date>July, 2022</release-date>
+    <release-date>August 8, 2022</release-date>
   </release-dates>
 
   <platforms>
     <platform>
-      <name>itch.io (PC, Mac, iPhone, Android)</name>
+      <name>itch.io (PC, Mac, Linux, iPhone, Android)</name>
       <link>https://yo252yo.itch.io/rens-demons</link>
     </platform>
     <platform>
-      <name>Steam</name>
+      <name>Steam (PC, Mac, Linux)</name>
       <link>https://store.steampowered.com/app/1949420/Rens_Demons_I/</link>
     </platform>
   </platforms>
