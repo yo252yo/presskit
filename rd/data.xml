@@ -109,6 +109,14 @@
     <itch>1576324</itch>
   </widgets>
 
+  <additionals>
+    <additional>
+      <title>Ren's Demo</title>
+      <description>This short demo presents the game engine and vibe with a standalone independant mini-story.</description>
+      <link>https://yo252yo.itch.io/rensdemo</link>
+    </additional>
+  </additionals>
+  
   <credits>
     <credit>
       <person>Yo252Yo</person>
