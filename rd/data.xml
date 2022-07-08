@@ -22,6 +22,10 @@
       <name>Steam (PC, Mac, Linux)</name>
       <link>https://store.steampowered.com/app/1949420/Rens_Demons_I/</link>
     </platform>
+    <platform>
+      <name>Secret web free version (All platforms)</name>
+      <link>https://yo252yo.com/rd/?winarg</link>
+    </platform>
   </platforms>
 
   <prices>
@@ -116,7 +120,7 @@
       <link>https://yo252yo.itch.io/rensdemo</link>
     </additional>
   </additionals>
-  
+
   <credits>
     <credit>
       <person>Yo252Yo</person>
