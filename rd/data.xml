@@ -57,12 +57,17 @@
   <histories>
     <history>
       <text>
-        This game was developped in 4 years by a single developper in his spare time. It was born from a desire to explore what a videogame felt like from the point of view of the NPCs. It was built around die-and-retry mechanism and save scumming as first citizens, with the goal of making the gameplay reach outside of the boundaries of a game, as it became clear that the final boss would be the player themselves. It quickly evolved to encapsulate many philosophical themes.
+        This game was developped in 4 years by a single developper in his spare time. It was born from a desire to explore what a videogame felt like from the point of view of the NPCs.
       </text>
     </history>
+      <history>
+        <text>
+          It was built around die-and-retry mechanism and save scumming as first citizens, with the goal of making the gameplay reach outside of the boundaries of a game, as it became clear that the final boss would be the player themselves. It quickly evolved to encapsulate many philosophical themes and a focus on challenging the players sincerely with a truthful and accurate representation of technology.
+        </text>
+      </history>
     <history>
       <text>
-          After the experience of my first game You Doesn't Exist, I was very frustrated with problems with the game engine that I could not address, so I ended up making my own game engine from scratch. I was also determined to do a game that could be enjoyable from the start and move away from the formula "bear through the innocuous beginning to get to the exciting part". Those driving factors dictated much of the project.
+        After the experience of my first game You Doesn't Exist, I was very frustrated with problems with the game engine that I could not address, so I ended up making my own game engine from scratch. I was also determined to do a game that could be enjoyable from the start and move away from the formula "bear through the innocuous beginning to get to the exciting part", so I was careful to design original and creative gameplay from the start. Those driving factors dictated much of the project.
       </text>
     </history>
   </histories>
