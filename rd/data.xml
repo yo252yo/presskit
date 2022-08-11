@@ -118,6 +118,33 @@
     <itch>1576324</itch>
   </widgets>
 
+  <quotes>
+    <quote>
+      <description>It is similar to Undertale in the sense of being its own meta-game and a role-playing game, but Ren’s Demons I is unique in its storytelling, visuals, and gameplay. Ren’s Demons I is an absolute blast to play for RPG fans and has philosophical themes mixed well with clever storytelling that stands out from the modern games.</description>
+      <name>Azra3l</name>
+      <website>Steamgamer</website>
+      <link>
+        https://steamgamer.net/rens-demons-i/
+      </link>
+    </quote>
+    <quote>
+      <description>Ren's Demons, a JRPG unlike any you've ever played before. Full of experimental mechanics which are integral to both the gameplay and the story.</description>
+      <name>CSH Picone</name>
+      <website>Steam</website>
+      <link>
+        https://store.steampowered.com/curators/curatorsrecommending/?appid=1949420
+      </link>
+    </quote>
+    <quote>
+      <description>Ren's Demons I is a narrative meta-RPG written beautifully on philosophical themes. It encourages as much exploration and interaction at your own pace. The game breaks the 4th wall and your emotions.</description>
+      <name>What The Game?</name>
+      <website>Steam</website>
+      <link>
+        https://store.steampowered.com/curators/curatorsrecommending/?appid=1949420
+      </link>
+    </quote>
+  </quotes>
+  
   <additionals>
     <additional>
       <title>Ren's Demo</title>
