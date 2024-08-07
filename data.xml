@@ -5,12 +5,6 @@
   <based-in>Paris, France</based-in>
   <website>https://www.yo252yo.com/</website>
 
-  <address>
-    <line>8 rue de Londres</line>
-    <line>75009 Paris</line>
-    <line>France</line>
-  </address>
-
   <founding-date>2013</founding-date>
 
   <socials>
@@ -23,7 +17,7 @@
   <press-contact>yo252yo@gmail.com</press-contact>
 
   <description>
-    My name is Yoann, I go by “yo252yo“. I'm a transmedia author, meaning I do all kind of things at the junction of contemporary art, philosophy, academia, technology and pop culture.
+    My name is Yoann, I go by “yo252yo“. I'm a transmedia author, meaning I do all kind of things at the junction of contemporary art, philosophy, academia, technology and pop culture. This presskit contains all the major videogames I've produced, with spoilers for press :)
   </description>
 
   <histories>
@@ -46,7 +40,6 @@
     </trailer>
   </trailers>
 
-
   <quotes>
     <quote>
       <description>Never played game like this before, the only way how to discover what I am trying to say you is trying the game on your own. Everybody´s experience of this game will be very different, I just hope ur gonna like it.</description>
@@ -57,11 +50,19 @@
       </link>
     </quote>
     <quote>
-      <description>The game falls into the "Game and art" category, any review with less than 30 minutes of play will not render justice to it.</description>
-      <name>Kyojin</name>
-      <website>Steam</website>
+      <description>It is similar to Undertale in the sense of being its own meta-game and a role-playing game, but Ren’s Demons I is unique in its storytelling, visuals, and gameplay. Ren’s Demons I is an absolute blast to play for RPG fans and has philosophical themes mixed well with clever storytelling that stands out from the modern games.</description>
+      <name>Azra3l</name>
+      <website>Steamgamer</website>
       <link>
-        https://steamcommunity.com/profiles/76561197984770447/recommended/688650
+        https://steamgamer.net/rens-demons-i/
+      </link>
+    </quote>
+    <quote>
+      <description>Without spoiling exactly how it DOES work and how you can win and save mankind, when I discovered that one, I fully realised this was a 6/5 for me, personally. Genius, especially because there is additional messaging to how the solution might seem to a proper centrist.</description>
+      <name>AbNormalHumanBeing</name>
+      <website>itch</website>
+      <link>
+        https://itch.io/post/10032807
       </link>
     </quote>
   </quotes>
