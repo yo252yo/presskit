@@ -1,0 +1,155 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<product>
+  <title>Centrist Simulator</title>
+  <website>https://yo252yo.itch.io/centrist-simulator</website>
+
+  <press-copy-request>
+  mailto:yo252yo@gmail.com
+  </press-copy-request>
+
+  <release-dates>
+    <release-date>June 1, 2024</release-date>
+  </release-dates>
+
+  <platforms>
+    <platform>
+      <name>itch.io (PC, Mac, Linux, iPhone, Android)</name>
+      <link>https://yo252yo.itch.io/centrist-simulator</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>EUR</currency>
+      <value>0</value>
+    </price>
+    <price>
+      <currency>USD</currency>
+      <value>0</value>
+    </price>
+    <price>
+      <currency>GBP</currency>
+      <value>0</value>
+    </price>
+    <price>
+      <currency>JPY</currency>
+      <value>0</value>
+    </price>
+  </prices>
+
+
+  <description>
+    Can you save humanity from itself by idling? This innovative minigame puts a twist on the genre by introducing an element of competition: if you want any hope for a future, you'll have to out-race the damages of the climate crisis. Winning will require all your management skills and out-of-the-box thinking, so be a smart investor and build the right portfolio to survive the most dangerous century of the history of mankind!
+  </description>
+
+  <histories>
+    <history>
+      <text>
+        Developped as part of the Fuck Capitalism Jam 2024, in which it ranked 2nd.
+      </text>
+    </history>
+    <history>
+      <text>
+        This game is the result of an exploration around the themes of "status-quo bias", "compassion fade" and "identifiable victim bias". It is impossible to win if the player remains in normal difficulty, but victory is almost guaranteed if the player choses "impossible" mode and accepts to dismantle the existing structures of oppression.
+      </text>
+    </history>
+  </histories>
+
+
+  <features>
+    <feature>
+      An innovative take on the idle game genre that pitches you against the clock.
+    </feature>
+    <feature>
+      29 distinct technologies spanning 6 tech trees directly inspired by cutting-edge centrist solutions to the climate crisis, for a truly customizable and realistic centrist experience!
+    </feature>
+    <feature>
+      A sophisticated narrative engine that generates a full life and personality for every human on your planet.
+    </feature>
+    <feature>
+      For the first time in my games, a clear actual happy-end victory condition with a twist, including a secret ending where nobody dies!
+    </feature>
+    <feature>
+      5 unique levels of difficulty.
+    </feature>
+    <feature>
+      Native mobile support.
+    </feature>
+    <feature>
+      Quick to play (5-10 min), long to forget.
+    </feature>
+    <feature>
+      Accessibility options such as "Confirmation Bias" or "Normalize status-quo" for the most faint of heart of centrists.
+    </feature>
+  </features>
+
+  <widgets>
+    <itch>2740343</itch>
+  </widgets>
+
+  <quotes>
+    <quote>
+      <description>Overall, I love how much it forces the player to become numb to death, (...) and how insurmountably difficult it *seems* (within an economic context.) Truly fantastic game, so detailed, so simple, so perfectly executed, down to the tiniest detail.</description>
+      <name>Stefems</name>
+      <website>Itch</website>
+      <link>
+        https://itch.io/post/10099284
+      </link>
+    </quote>    
+    <quote>
+      <description>Very polished feel with a fresh take on the idle game... Where the game itself is a reflection on our idle behavior towards climate change. Really smart way to use game mechanics to engage with the issues the game brings up.</description>
+      <name>Bucketbomb</name>
+      <website>itch</website>
+      <link>
+        https://itch.io/post/10043312
+      </link>
+    </quote>
+    <quote>
+      <description>Without spoiling exactly how it DOES work and how you can win and save mankind, when I discovered that one, I fully realised this was a 6/5 for me, personally. Genius, especially because there is additional messaging to how the solution might seem to a proper centrist.</description>
+      <name>AbNormalHumanBeing</name>
+      <website>itch</website>
+      <link>
+        https://itch.io/post/10032807
+      </link>
+    </quote>
+    <quote>
+      <description>Just when I thought I had gotten through all the metacommentary of this game, I opened the settings to see "Confirmation Bias" and "Normalize Status Quo." Beyond being a great commentary, this game is absolutely hilarious.</description>
+      <name>rubberducke</name>
+      <website>itch</website>
+      <link>
+        https://itch.io/post/10385139
+      </link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title>Postmortem / intent statement</title>
+      <description>A little writeup/essay/analysis/behind the scene/intent note on my personal website.</description>
+      <link>https://yo252yo.wordpress.com/2024/06/05/centrist-simulator/</link>
+    </additional>
+    <additional>
+      <title>Game jam entry</title>
+      <link>https://itch.io/jam/fuck-capitalism-jam-2024/rate/2740343</link>
+    </additional>
+  </additionals>
+  
+
+  <credits>
+    <credit>
+      <person>Yo252Yo</person>
+      <role>Game design/writing/programming</role>
+    </credit>
+    <credit>
+      <person>Olivia Haselow</person>
+      <role>Art/visual design</role>
+    </credit>
+    <credit>
+      <person>Chris Ramusiewcz (Oselka Sound)</person>
+      <role>Music</role>
+    </credit>
+  </credits>
+
+</product>
