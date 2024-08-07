@@ -31,19 +31,19 @@
   <prices>
     <price>
       <currency>EUR</currency>
-      <value>3.99</value>
+      <value>0</value>
     </price>
     <price>
       <currency>USD</currency>
-      <value>3.99</value>
+      <value>0</value>
     </price>
     <price>
       <currency>GBP</currency>
-      <value>3.99</value>
+      <value>0</value>
     </price>
     <price>
       <currency>JPY</currency>
-      <value>399</value>
+      <value>0</value>
     </price>
   </prices>
 
